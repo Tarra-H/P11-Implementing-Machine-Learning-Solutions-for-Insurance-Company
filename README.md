@@ -1,4 +1,4 @@
-# Solving-Sure-Tomorrow-Insurance-Company-s-Problems
+# Implementing Machine Learning Solutions for Insurance Company "Sure Tomorrow"
 
 Project Description:
 
